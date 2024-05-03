@@ -28,6 +28,15 @@ Content-based filtering recommends movies based on their features and similariti
 ### Hybrid-Based Filtering
 Hybrid-based filtering combines content-based and collaborative filtering techniques. It leverages a combination of content-based filtering, which analyzes item features, and collaborative filtering, which analyzes user behavior, to provide more accurate and diverse recommendations.
 
+### Data Wrangling
+Data wrangling involves preprocessing and transforming raw data into a usable format for analysis and modeling. We employed data wrangling techniques to clean and prepare the movie dataset for recommendation system training.
+
+### Data Modeling
+Data modeling refers to the process of creating and refining models to analyze and interpret data. We utilized data modeling techniques to develop and optimize recommendation algorithms, ensuring robust performance.
+
+### Model Evaluation
+Model evaluation entails assessing the performance and effectiveness of predictive models. We conducted rigorous model evaluation using metrics such as RMSE, and Mean Absolute Error (MAE) to gauge recommendation quality.
+
 ## Dataset
 The dataset used for training and testing the recommendation system can be found at the following link:
 [Dataset Link](https://drive.google.com/file/d/1hmK2Vej7YfLMW7OemdqPBUQcIdksTGr3/view)
