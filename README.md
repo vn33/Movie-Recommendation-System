@@ -1,5 +1,5 @@
 # Movie Recommendation System
-<img src="https://www.freecodecamp.org/news/content/images/size/w1000/2023/11/movie-recommendation.png" alt="Movie Recommendation System" width="1000px" height="250px">
+<img src="https://www.freecodecamp.org/news/content/images/size/w1000/2023/11/movie-recommendation.png" alt="Movie Recommendation System" width="1000px" height="450px">
 
 This project is a movie recommendation system that utilizes various filtering techniques to provide personalized movie recommendations to users. The system plays a crucial role in enhancing user experience and engagement on movie streaming platforms by helping users discover new movies tailored to their preferences.
 
