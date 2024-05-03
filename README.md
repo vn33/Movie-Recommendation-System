@@ -28,6 +28,8 @@ Content-based filtering recommends movies based on their features and similariti
 ### Hybrid-Based Filtering
 Hybrid-based filtering combines content-based and collaborative filtering techniques. It leverages a combination of content-based filtering, which analyzes item features, and collaborative filtering, which analyzes user behavior, to provide more accurate and diverse recommendations.
 
+## Additional Techniques Used
+
 ### Data Wrangling
 Data wrangling involves preprocessing and transforming raw data into a usable format for analysis and modeling. We employed data wrangling techniques to clean and prepare the movie dataset for recommendation system training.
 
